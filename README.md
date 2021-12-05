@@ -1,2 +1,3 @@
 # Delish
-Online Shop. Delish.uz by iThink group for Open Data 
+Online Shop.
+#Delish.uz by iThink group for Open Data 
